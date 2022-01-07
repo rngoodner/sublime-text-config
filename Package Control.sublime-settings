@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Google Spell Check",
+		"LSP",
+		"LSP-gopls",
+		"SublimeCodeIntel",
+		"TrailingSpaces",
+	],
+}
